@@ -1,6 +1,6 @@
 # A-Selective-Effect-of-Dopamine-on-Information-Seeking
 
-Data_Bin:
+#Data_Bin:
 
 Col1: Bin (1-200)
 
@@ -13,7 +13,7 @@ Col4: trials in which market was going up (1) or down (0)
 Col5: mean expectation rating from -4 to 4
 
 
-Data_Bin
+#Main_Data
 
 
 Col1: Subject ID
@@ -51,7 +51,7 @@ Col16: confidence rating from 1 to 9 when market was up
 Col17: confidence rating from 1 to 9 when market was down
 
 
-Model_choice
+#Model_choice
 
 Col1: Subject ID
 
@@ -70,7 +70,7 @@ Col7: beta coefficient signed market change
 Col8: beta coefficient absolute market change
 
 
-Model_WTP
+#Model_WTP
 
 Col1: Subject ID
 
@@ -88,7 +88,7 @@ Col7: beta coefficient signed market change
 
 Col8: beta coefficient absolute market change
 
-SSQ- subjective state questionnaire
+#SSQ- subjective state questionnaire
 
 Col1: Subject ID
 
