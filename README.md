@@ -2,9 +2,13 @@
 
 Data_Bin:
 Col1: Bin (1-200)
+
 Col2: Group 0 placebo, 1 dopamine 
+
 Col3: information-seeking (the proportion of participant that paid to receive information minus the proportion who paid to avoid information)
+
 Col4: trials in which market was going up (1) or down (0)
+
 Col5: mean expectation rating from -4 to 4
 
 
