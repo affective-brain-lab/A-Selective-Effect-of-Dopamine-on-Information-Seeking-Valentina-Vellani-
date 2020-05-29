@@ -1,8 +1,8 @@
 # A-Selective-Effect-of-Dopamine-on-Information-Seeking
 
-#Data_Bin:
+#Data_Trial:
 
-Col1: Bin (1-200)
+Col1: Trials (1-200)
 
 Col2: Group 0 placebo, 1 dopamine 
 
@@ -97,3 +97,16 @@ Col2: Group 0 placebo, 1 dopamine
 A 1 item before
 
 A_After 1 item after
+
+
+#Exectation figure
+
+file to create the Exectation figure
+
+#Information seeking figure
+
+file to create the Information seeking figure
+
+#main script (1,2)
+
+#script temporal analysis (1,2)
