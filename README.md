@@ -1,6 +1,7 @@
 # A-Selective-Effect-of-Dopamine-on-Information-Seeking
 
-All_WTP_choice.csv cointaines all the data
+#All_WTP_choice.csv cointaines data for each trial
+#Data1 containes all data by subject (for figure N.2)
 
 
 
