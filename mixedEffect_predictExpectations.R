@@ -8,7 +8,7 @@ library(sjPlot)
 setwd()
 
 #load dataframes for mixed effects models
-data <- read.csv("DataMixedModel_predictingExpectation.csv")
+data <- read.csv("Exp.csv")
 
 control_params = lmerControl(optimizer="bobyqa",optCtrl=list(maxfun=100000))
 
